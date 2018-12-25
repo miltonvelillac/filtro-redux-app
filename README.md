@@ -13,3 +13,6 @@ npm install @ngrx/store-devtools --save
 
 #compilar para produccion
 ng build --prod
+
+#Video
+https://www.udemy.com/redux-ngrx-angular/learn/v4/t/lecture/10727478?start=390
